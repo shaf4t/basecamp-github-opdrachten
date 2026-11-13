@@ -1,6 +1,6 @@
-# Basecamp GitHub opdrachten
+# Basecamp-opdrachten
 
-Overzicht van de Basecamp-opdrachten per week.
+In deze repository staan de uitgewerkte Basecamp-opdrachten per week.
 
 ## Beschikbare weken
 
@@ -9,6 +9,7 @@ Overzicht van de Basecamp-opdrachten per week.
 - [Week 3](./Week-3/)
 - [Week 5](./Week-5/)
 - [Week 6](./Week-6/)
+- [Week 7](./Week-7/)
 
 Week 4 is niet opgenomen omdat er geen Week-4-opdrachten beschikbaar zijn.
 
