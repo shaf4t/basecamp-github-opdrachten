@@ -1,4 +1,4 @@
-"""Week 7 - Code-analyse: voorspel, voer uit en leg het programma uit.
+"""Week 9 - Code-analyse: voorspel, voer uit en leg het programma uit.
 
 Het oorspronkelijke voorbeeld gebruikte ``add_books`` om de volledige lijst
 iedere keer te vervangen. De verbeterde versie hieronder gebruikt ``add_book``

@@ -1,4 +1,4 @@
-"""Week 7 - Stap 1: classes, objects, attributes en instance methods."""
+"""Week 9 - Stap 1: classes, objects, attributes en instance methods."""
 
 
 # 1.1 Definieer een class voor een student.

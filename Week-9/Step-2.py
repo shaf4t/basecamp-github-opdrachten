@@ -1,4 +1,4 @@
-"""Week 7 - Stap 2: initialisatie, statuswijzigingen en object scope."""
+"""Week 9 - Stap 2: initialisatie, statuswijzigingen en object scope."""
 
 
 # 2.1 Definieer een class met een class attribute.

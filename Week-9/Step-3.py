@@ -1,4 +1,4 @@
-"""Week 7 - Stap 3: een kleine objectgeoriënteerde bibliotheek."""
+"""Week 9 - Stap 3: een kleine objectgeoriënteerde bibliotheek."""
 
 
 # 3.1 Definieer een class voor een boek.
