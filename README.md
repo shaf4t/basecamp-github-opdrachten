@@ -9,7 +9,7 @@ In deze repository staan de uitgewerkte Basecamp-opdrachten per week.
 - [Week 3](./Week-3/)
 - [Week 5](./Week-5/)
 - [Week 6](./Week-6/)
-- [Week 7](./Week-7/)
+- [Week 9](./Week-9/)
 
 Elke weekmap bevat de opdrachten en, waar aanwezig, het bijbehorende
 code-analysis-bestand.
